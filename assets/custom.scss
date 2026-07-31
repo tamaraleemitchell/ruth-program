@@ -3,3 +3,27 @@ $headings-font-weight: 500 !default;
 $font-size-root: 24px !default;
 
 /*-- scss:rules --*/
+.poem-quote {
+
+  // Styles the blockquote container
+  blockquote {
+    border-left: 4px solid #ccc;
+    padding-left: 1rem;
+    margin: 1em 0;
+    color: #555;
+
+    // Styles each line/paragraph inside the quote
+    p {
+      padding-left: 2em;
+      text-indent: -2em;
+      margin: 0;
+      line-height: 1.5;
+    }
+
+    // Creates vertical spacing between stanzas
+    p+p.stanza-break,
+    p.stanza {
+      margin-top: 1em;
+    }
+  }
+}
