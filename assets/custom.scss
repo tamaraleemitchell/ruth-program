@@ -27,3 +27,47 @@ $font-size-root: 24px !default;
     }
   }
 }
+
+.quarto-sidebar img,
+#quarto-sidebar img {
+  border-radius: 50%;
+  width: 150px;
+  /* Set equal width and height */
+  height: 150px;
+  object-fit: cover;
+  /* Prevents image distortion */
+}
+
+/* Center text and inline content in the sidebar */
+#quarto-sidebar,
+.quarto-sidebar-collapse-item {
+  text-align: center;
+}
+
+/* Center flexbox items (navigation links, sub-menus, and icons) */
+#quarto-sidebar .sidebar-item-text,
+#quarto-sidebar .sidebar-menu-container,
+#quarto-sidebar .sidebar-navigation,
+#quarto-sidebar .sidebar-item-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+/* Restore and display the sidebar title container */
+#quarto-sidebar .sidebar-title,
+#quarto-sidebar .sidebar-brand-container {
+  display: block !important;
+  visibility: visible !important;
+  opacity: 1 !important;
+  margin-bottom: 1rem;
+}
+
+/* Ensure the title link itself takes full width and remains centered */
+#quarto-sidebar .sidebar-title a,
+#quarto-sidebar .sidebar-brand {
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}

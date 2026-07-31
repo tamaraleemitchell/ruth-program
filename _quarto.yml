@@ -3,17 +3,20 @@ project:
   output-dir: docs
 
 website:
-  title: "Links"
+  title: "Celebration of Life"
   sidebar:
     style: "docked"
     search: false
+    logo: assets/gfx/avatar.jpeg
+
     background: "#9A9AEB"
     contents:
-      - text: Memorial Page <i class="bi bi-box-arrow-up-right"></i>
-        href: "https://www.dignitymemorial.com/obituaries/kansas-city-mo/ruth-mitchell-12935221"
+      - text: Celebration of Life
+        href: index.qmd
       - text: Photo slideshow
         href: slide-show.qmd
-
+      - text: Memorial Page <i class="bi bi-box-arrow-up-right"></i>
+        href: "https://www.dignitymemorial.com/obituaries/kansas-city-mo/ruth-mitchell-12935221"
 
 format:
   html:
