@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Program"
+  sidebar:
+    style: "docked"
+    search: false
+    background: "#9A9AEB"
+    contents:
+      - text: Memorial Page <i class="bi bi-box-arrow-up-right"></i>
+        href: "https://www.dignitymemorial.com/obituaries/kansas-city-mo/ruth-mitchell-12935221"
+      - text: Photo slides
+        href: slide-show.qmd
+
+
+format:
+  html:
+    grid:
+      margin-width: 0px
+      sidebar-width: 400px
+    theme:
+      - cosmo
+      - assets/custom.scss
+    fig-align: center
