@@ -2,4 +2,8 @@
 title: "Photo slideshow"
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcWF809RSyoWPxy8fVOhsKSKdPsUrmyye4eGVqelYR26p3PpW6Io_4eEhjbQSZjQ/pubembed?start=true&loop=true&delayms=10000" frameborder="0" width="800" height="600" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcWF809RSyoWPxy8fVOhsKSKdPsUrmyye4eGVqelYR26p3PpW6Io_4eEhjbQSZjQ/pubembed?start=true&loop=true&delayms=5000" frameborder="0" width="800" height="450" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+::: callout-note
+Click the &vellip; (three vertical dots) to pause or change speed.
+:::
