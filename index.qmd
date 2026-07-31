@@ -8,11 +8,17 @@ toc: true
 
 ![](assets/gfx/headshot.jpeg){.lightbox width=500px fig-align="center"}
 
-## On this page
+## On this page {.unlisted}
 
 * [Order of Service](#order-of-service)
 * [Obituary](#obituary)
 * [Memorials](#memorials)
+
+::: callout-note
+## Viewing live online
+
+To watch the service live online, go to <https://atthecorner.church/church-online>, scroll down, and the video will show as "LIVE" once the service has begun. The video will be available for one week following the celebration of life.
+:::
 
 ## Order of Service
 
@@ -24,8 +30,8 @@ toc: true
 - _Tammy Mitchell_: Message from Ruth
 - _Song_: “You Are My Sunshine”
 - _Messages of Friendship_: Donna Langston (virtual), Nancy Purcell, Linda Kelly
-- _Dionna Mitchell_: Family Eulogy
-- _Kieran Ford_: “I Don't Need a Roof”
+- _Dionna Ford_: Family Eulogy
+- _Kieran Ford_: “I Don't Need a Roof” from _Big Fish_
 - _Open mic_: Remembering Ruth Together
 - _Pastor Darrell_: Celebration of Life
 - _Collective Worship_: “Great is Thy Faithfulness” & “In the Garden”

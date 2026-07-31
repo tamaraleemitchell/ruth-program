@@ -11,7 +11,7 @@ website:
     contents:
       - text: Memorial Page <i class="bi bi-box-arrow-up-right"></i>
         href: "https://www.dignitymemorial.com/obituaries/kansas-city-mo/ruth-mitchell-12935221"
-      - text: Photo slides
+      - text: Photo slideshow
         href: slide-show.qmd
 
 
